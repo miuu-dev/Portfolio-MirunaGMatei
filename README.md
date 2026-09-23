@@ -5,7 +5,7 @@
 <div align="center">   
 
 [![Author](https://img.shields.io/badge/Author-MirunaGMatei-purple?style=flat-square)]()
-[![Status](https://img.shields.io/badge/Status-En%20curso-brightgreen?style=flat-square)](https://github.com/itssm1uu/Portfolio-MirunaGMatei)
+[![Status](https://img.shields.io/badge/Status-Finalizado-red?style=flat-square)](https://github.com/itssm1uu/Portfolio-MirunaGMatei)
 ![Obsidian/Docs](https://img.shields.io/badge/Docs-Markdown-purple?style=flat-square)
 </div>
 
