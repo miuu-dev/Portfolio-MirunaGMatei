@@ -60,6 +60,33 @@ En sí no sabría decir, creo que el conocimiento que tengo es bastante completo
 ---
 
 ## 🖤 GitHub y sus funciones
+> Realizado el día 22 de Septiembre de 2026
+
+**CUESTIONARIO**
+
+**1. ¿Qué has aprendido?**
+
+En este apartado, es más de lo mismo que el ejercicio anterior. En sí, no es que no haya aprendido, es que he podido recordar ciertas cosas que se podían realizar en y con los repositorios como, por ejemplo, los "Pull Requests" que así podemos contribuir entre varios en un mismo tema para poder mejorarlo.
+<br>
+<br>
+
+**2. ¿Qué no entiendes?**
+
+Tendría algún error o duda a la hora de dar permiso para cuando tenga que hacer Git, porque puede tener tantos permisos cuando creamos una clave para poder hacer un repositorio local unido al repositorio de GitHub.
+
+<br>
+<br>
+
+**3. ¿Qué es lo que más te ha gustado? ¿Y lo que no?**
+
+Nuevamente, lo que más me ha gustado la forma en la que puedes administrar tus documentos y/o programas que subas dentro de este, además que se usa el README.md para poder mostrar de forma estructura un pequeño resumen de lo que podremos ver dentro del REPO.
+
+<br>
+<br>
+
+**4. ¿Qué más te gustaría hacer sobre el temario?**
+
+Me gustaría intentar aprender más sobre el tema de los permisos para tener Git en local, porque por lo demás es un tema bastante sencillo a la hora de crear un repositorio y aprender los usos que tiene.
 
 
 **LINK:** [Tarea Realizada](./3.Github_MirunaGMatei.md)
