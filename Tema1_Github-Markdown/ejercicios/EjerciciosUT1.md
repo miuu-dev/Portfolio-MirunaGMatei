@@ -73,14 +73,12 @@ En este apartado, es más de lo mismo que el ejercicio anterior. En sí, no es q
 **2. ¿Qué no entiendes?**
 
 Tendría algún error o duda a la hora de dar permiso para cuando tenga que hacer Git, porque puede tener tantos permisos cuando creamos una clave para poder hacer un repositorio local unido al repositorio de GitHub.
-
 <br>
 <br>
 
 **3. ¿Qué es lo que más te ha gustado? ¿Y lo que no?**
 
 Nuevamente, lo que más me ha gustado la forma en la que puedes administrar tus documentos y/o programas que subas dentro de este, además que se usa el README.md para poder mostrar de forma estructura un pequeño resumen de lo que podremos ver dentro del REPO.
-
 <br>
 <br>
 
