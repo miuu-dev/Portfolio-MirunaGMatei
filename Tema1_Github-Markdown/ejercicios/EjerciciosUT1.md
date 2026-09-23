@@ -39,19 +39,19 @@ Más que aprender, he podido recordar algunos formatos que se podían hacer a la
 <br>
 <br>
 
-**2. ¿Qué no entiendo?**
+**2. ¿Qué no entiendes?**
 
 En sí lo comprendo bastante bien porque es algo que se me da bastante bien. Estuve mejorando mis conocimientos sobre el tema durante este verano para poder mejorar mi perfil en GitHub para un futuro trabajo cuando tenga que enseñar mi portfolio y también porque en primero de DAM fue un tema que se me dio de 10.
 <br>
 <br>
 
-**3. ¿Qué es lo que más me ha gustado? ¿Y lo que no?**
+**3. ¿Qué es lo que más te ha gustado? ¿Y lo que no?**
 
 Lo que más me ha gustado ha sido que puedo darle diseño y mejorar mi mecanografía a la hora de escribir en este tipo de formato. No solo queda mejor organizado, sino que se ve muchísimo mejor de forma visual. Lo que no me ha gustado es más tema de como estaba escrita la práctica. Fue algo tedioso, pero fue bastante útil para poder estar más atentos a la hora de escribir sin tener que mirar constantemente el teclado y, lo dicho anteriormente, mejorar la mecanografía.
 <br>
 <br>
 
-**4. ¿Qué más me gustaría hacer sobre el temario?**
+**4. ¿Qué más te gustaría hacer sobre el temario?**
 
 En sí no sabría decir, creo que el conocimiento que tengo es bastante completo a lo que conlleva "Markdown", pero puedo decir que me pareció muy curioso la forma de unificar HTML5 con Markdown para poder insertar imágenes o poder darle un diseño estilo CSS3 sin necesidad de crear un fichero, cosa que es bastante básico a la hora de aprender HTML5 y CSS3, pero es más sencillo a la hora de usarlo con Markdown.
 
