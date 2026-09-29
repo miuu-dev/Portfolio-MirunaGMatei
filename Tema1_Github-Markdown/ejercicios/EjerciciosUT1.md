@@ -13,15 +13,15 @@
 
 ## 📋 ÍNDICE
 
-1. [Introducción a Github](#-introducción-a-github)
+1. [Introducción a GitHub](#-introducción-a-github)
 2. [Lorem Fistrum](#-lorem-fistrum)
 3. [GitHub y sus funciones](#-github-y-sus-funciones)
-4. ![Actividad Práctica Documentación](https://img.shields.io/badge/Oculto-grey?style=flat-square)
+4. [Actividad Práctica: Evaluación y Uso de un generador de documentación](#-evaluación-y-uso-de-un-generador-de-documentación)
 5. ![Actividad Práctica Seguridad](https://img.shields.io/badge/Oculto-grey?style=flat-square)
 
 ---
 
-## 💻 Introducción a Github
+## 💻 Introducción a GitHub
 > Realizado el día 28 de Septiembre de 2026
 
 **CUESTIONARIO:**
@@ -110,7 +110,37 @@ Nuevamente, lo que más me ha gustado la forma en la que puedes administrar tus 
 
 Me gustaría intentar aprender más sobre el tema de los permisos para tener Git en local, porque por lo demás es un tema bastante sencillo a la hora de crear un repositorio y aprender los usos que tiene.
 
-
 **LINK:** [Tarea Realizada](./3.Github_MirunaGMatei.md)
+
+---
+
+## 📃 Evaluación y uso de un generador de documentación
+> 
+
+**CUESTIONARIO**
+
+**1. ¿Qué has aprendido?**
+
+
+<br>
+<br>
+
+**2. ¿Qué no entiendes?**
+
+
+<br>
+<br>
+
+**3. ¿Qué es lo que más te ha gustado? ¿Y lo que no?**
+
+
+<br>
+<br>
+
+**4. ¿Qué más te gustaría hacer sobre el temario?**
+
+
+
+**LINK:** [Tarea Realizada](./4.Evaluacion-Generador_MirunaGMatei.pdf)
 
 ---
