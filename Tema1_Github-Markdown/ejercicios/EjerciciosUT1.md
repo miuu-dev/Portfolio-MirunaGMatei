@@ -89,7 +89,6 @@ En sí no sabría decir, creo que el conocimiento que tengo es bastante completo
 **CUESTIONARIO**
 
 **1. ¿Qué has aprendido?**
-
 En este apartado, es más de lo mismo que el ejercicio anterior. En sí, no es que no haya aprendido, es que he podido recordar ciertas cosas que se podían realizar en y con los repositorios como, por ejemplo, los "Pull Requests" que así podemos contribuir entre varios en un mismo tema para poder mejorarlo.
 <br>
 <br>
@@ -115,32 +114,33 @@ Me gustaría intentar aprender más sobre el tema de los permisos para tener Git
 ---
 
 ## 📃 Evaluación y uso de un generador de documentación
-> 
+> Realizado el día 30 de Septiembre de 2026
 
 **CUESTIONARIO**
 
 **1. ¿Qué has aprendido?**
 
-
+He aprendido que hay aplicaciones bastantes complejas para la creación de documentos dependiendo del lenguaje de programación y que la creación del JavaDoc es más sencillo que de lo que me parecía el año pasado en 1DAM. También he aprendido que se puede hacer por comandos, interfaz o directamente con un botón que incluye el propio IDE.
 <br>
 <br>
 
 **2. ¿Qué no entiendes?**
 
-
+No entiendo como hacerlo por comandos. Me parece algo bastante complejo y que prefiero que, si se puede algún día, todas sean como para la documentación de JavaDoc.
 <br>
 <br>
 
 **3. ¿Qué es lo que más te ha gustado? ¿Y lo que no?**
 
-
+Lo que más me ha gustado fue investigar para cada apartado (JavaDoc, Sphinx y Doxygen) y lo que menos fue realizar la parte práctica.
 <br>
 <br>
 
 **4. ¿Qué más te gustaría hacer sobre el temario?**
 
+Me gustaría saber si hay alguna forma más fácil para realizar la documentación que no sea de forma manual, pero tampoco hacerlo con puros comandos.
 
 
-**LINK:** [Tarea Realizada](./4.Evaluacion-Generador_MirunaGMatei.pdf)
+**LINK:** [Tarea Realizada](./4.Evaluacion-Generador_MirunaGMatei/)
 
 ---
