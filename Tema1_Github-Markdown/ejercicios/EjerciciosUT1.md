@@ -5,7 +5,7 @@
 <div align="center">   
 
 [![Author](https://img.shields.io/badge/Author-MirunaGMatei-purple?style=flat-square)]()
-[![Status](https://img.shields.io/badge/Status-En%20curso-brightgreen?style=flat-square)](https://github.com/itssm1uu/Portfolio-MirunaGMatei)
+[![Status](https://img.shields.io/badge/Status-Terminado-red?style=flat-square)](https://github.com/itssm1uu/Portfolio-MirunaGMatei)
 ![Obsidian/Docs](https://img.shields.io/badge/Docs-Markdown-purple?style=flat-square)
 </div>
 
@@ -17,7 +17,7 @@
 2. [Lorem Fistrum](#-lorem-fistrum)
 3. [GitHub y sus funciones](#-github-y-sus-funciones)
 4. [Actividad Práctica: Evaluación y Uso de un generador de documentación](#-evaluación-y-uso-de-un-generador-de-documentación)
-5. ![Actividad Práctica Seguridad](https://img.shields.io/badge/Oculto-grey?style=flat-square)
+5. [Actividad Práctica Seguridad](#-práctica-de-seguridad-y-accesibilidad-en-el-control-de-versiones)
 
 ---
 
@@ -142,5 +142,33 @@ Me gustaría saber si hay alguna forma más fácil para realizar la documentaci�
 
 
 **LINK:** [Tarea Realizada](./4.Evaluacion-Generador_MirunaGMatei/)
+
+---
+
+## 🔐 Práctica de seguridad y accesibilidad en el control de versiones
+> Realizado el día 13 de Octubre de 2026
+
+**CUESTIONARIO**
+
+**1. ¿Qué has aprendido?**
+He aprendido a configurar colaboradores en GitHub, gestionar niveles de permisos (lectura, escritura y administrador) y estructurar políticas de seguridad con `.gitignore` y `SECURITY.md`.
+<br>
+<br>
+
+**2. ¿Qué no entiendes?**
+Lo tengo todo bastante claro; no me ha quedado ninguna duda importante sobre la gestión de accesos y roles en los repositorios.
+<br>
+<br>
+
+**3. ¿Qué es lo que más te ha gustado? ¿Y lo que no?**
+Me ha gustado comprobar en directo cómo cambian los permisos de un compañero en el repositorio; lo que menos, ajustar los textos y capturas para que encajaran bien en el documento.
+<br>
+<br>
+
+**4. ¿Qué más te gustaría hacer sobre el temario?**
+Me gustaría profundizar en la automatización de flujos de trabajo con GitHub Actions y en la protección avanzada de ramas con revisiones obligatorias y como modificar los permisos de un colaborador.
+
+
+**LINK:** [Tarea Realizada](./5.Seguridad-Accesibilidad_MirunaGMatei)
 
 ---
