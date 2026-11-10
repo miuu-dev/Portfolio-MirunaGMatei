@@ -13,24 +13,24 @@
 
 ## 📋 ÍNDICE
 
-1. [Presentación - Ivan Guijarro](#-presentación-con-iván-guijarro)
+1. [Presentación - Iván Guijarro](#-presentación-con-iván-guijarro)
 2. [Cuestionario Presentaciones](#-cuestionario-presentaciones)
 3. [Instalación NGINX y TOMCAT](#-instalación-de-nginx-y-tomcat-en-ubuntu)
 
 ---
 
-## 🫂​ Presentación con Iván Guijarro
+## 🫂 Presentación con Iván Guijarro
 > Realizado el día 10 de Noviembre de 2026
 
 **CUESTIONARIO**
 
 **1. ¿Qué has aprendido?**
-Por mi parte, he podido aprender y recordar sobre la instalación de Windows Server. Además, también me ayudó bastante para saber como es la instalación de Apache HTTP Server en Windows. Aunque algo que me ayudó a aprender fue el tema e los modelos de arquitectura, sobre su definición.
+Por mi parte, he podido aprender y recordar sobre la instalación de Windows Server. Además, también me ayudó bastante para saber cómo es la instalación de Apache HTTP Server en Windows. Aunque algo que me ayudó a aprender fue el tema de los modelos de arquitectura, sobre su definición.
 <br>
 <br>
 
 **2. ¿Qué no entiendes?**
-Lo que, mejor dicho, se me complica, es saber cuando realmente usar cada modelo de arquitectura y el por qué.
+Lo que, mejor dicho, se me complica, es saber cuándo realmente usar cada modelo de arquitectura y el porqué.
 <br>
 <br>
 
@@ -40,29 +40,29 @@ Lo que más me gustó fue realizar las instalaciones de Windows Server y el Apac
 <br>
 
 **4. ¿Qué más te gustaría hacer sobre el temario?**
-Me hubiese gustado más profundizar en ejemplos prácticos un poco más avanzados a la hora de realizar las instalaciones.
+Me hubiese gustado profundizar más en ejemplos prácticos un poco más avanzados a la hora de realizar las instalaciones.
 
 **LINK:** [Tarea Realizada](./Tema2_Tarea1_MirunaGMatei/)
 
 ---
 
-## ❓​ Cuestionario Presentaciones
+## ❓ Cuestionario Presentaciones
 > Realizado el día 10 de Noviembre de 2026
 
 **CUESTIONARIO**
 
 **1. ¿Qué has aprendido?**
-He podido aprender sobre como comprobar si el servicio Apache está activo en un sistema ubuntu, en que consiste la arquitectura cliente-servidor y aprender sobre los componentes principales de una arquitectura web moderna, es decir, sus 3 capas.
+He podido aprender sobre cómo comprobar si el servicio Apache está activo en un sistema Ubuntu, en qué consiste la arquitectura cliente-servidor y aprender sobre los componentes principales de una arquitectura web moderna, es decir, sus 3 capas.
 <br>
 <br>
 
 **2. ¿Qué no entiendes?**
-Me cuesta un poco entender sobre el protocolo SSH y como en sí, usarlo en mi día a día.
+Me cuesta un poco entender el protocolo SSH y cómo usarlo en mi día a día.
 <br>
 <br>
 
 **3. ¿Qué es lo que más te ha gustado? ¿Y lo que no?**
-Me gustó más poder atender y comprender la explicación de compañero a la hora de realizar sus respectivos puntos de la presentación que realizar un cuestionario sobre el tema.
+Me gustó más poder atender y comprender la explicación del compañero a la hora de realizar sus respectivos puntos de la presentación que realizar un cuestionario sobre el tema.
 <br>
 <br>
 
@@ -79,22 +79,22 @@ Sinceramente, nada.
 **CUESTIONARIO**
 
 **1. ¿Qué has aprendido?**
-He aprendido sobre la instalación del Docker en Ubuntu y el tema de los contenedores de servidor web y aplicaciones (Nginx y Tomcat)
+He aprendido sobre la instalación de Docker en Ubuntu y el tema de los contenedores de servidor web y aplicaciones (Nginx y Tomcat).
 <br>
 <br>
 
 **2. ¿Qué no entiendes?**
-Lo que no entiendo mucho fue más el tema de la infraestructura de red, en el apartado de segmentación y proxys.
+Lo que no entiendo mucho es el tema de la infraestructura de red, en el apartado de segmentación y proxies.
 <br>
 <br>
 
 **3. ¿Qué es lo que más te ha gustado? ¿Y lo que no?**
-Lo que más me gustó fue la instalación y comprobación de cada servidor con localhost:8080 y localhost:8081
+Lo que más me gustó fue la instalación y comprobación de cada servidor con `localhost:8080` y `localhost:8081`.
 <br>
 <br>
 
 **4. ¿Qué más te gustaría hacer sobre el temario?**
-Me gustaría poder profundizar más en el tema de qué más se podría realizar de forma práctica con Nginx y Tomcat.
+Me gustaría poder profundizar más en qué más se podría realizar de forma práctica con Nginx y Tomcat.
 
 **LINK:** [Tarea Realizada](./Tema2_Tarea3_MirunaGMatei/Tema2_Tarea3_MirunaGMatei.md)
 
