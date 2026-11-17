@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Apache Server | Mi sitio web</title>
+
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Arial, sans-serif;
+            min-height: 100vh;
+            background: linear-gradient(135deg, #101827, #202d42, #172033);
+            color: #f1f5f9;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 25px;
+        }
+
+        .container {
+            width: 100%;
+            max-width: 850px;
+        }
+
+        /* Cabecera */
+
+        .header {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        .logo {
+            width: 75px;
+            height: 75px;
+            background: linear-gradient(135deg, #e45b50, #a83232);
+            border-radius: 20px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: 35px;
+            margin: 0 auto 20px;
+            box-shadow: 0 8px 25px rgba(228, 91, 80, 0.25);
+        }
+
+        .header h1 {
+            font-size: 32px;
+            margin-bottom: 10px;
+        }
+
+        .header p {
+            color: #94a3b8;
+            font-size: 15px;
+        }
+
+        /* Tarjeta principal */
+
+        .card {
+            background: rgba(255, 255, 255, 0.06);
+            border: 1px solid rgba(255, 255, 255, 0.12);
+            border-radius: 20px;
+            padding: 35px;
+            box-shadow: 0 15px 40px rgba(0, 0, 0, 0.25);
+            backdrop-filter: blur(12px);
+        }
+
+        .status {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            background: rgba(34, 197, 94, 0.12);
+            border: 1px solid rgba(34, 197, 94, 0.25);
+            border-radius: 12px;
+            padding: 16px;
+            margin-bottom: 30px;
+        }
+
+        .status-dot {
+            width: 11px;
+            height: 11px;
+            background: #22c55e;
+            border-radius: 50%;
+            box-shadow: 0 0 12px #22c55e;
+        }
+
+        .status-text strong {
+            display: block;
+            color: #4ade80;
+            font-size: 15px;
+        }
+
+        .status-text span {
+            display: block;
+            color: #94a3b8;
+            font-size: 13px;
+            margin-top: 3px;
+        }
+
+        /* Contenido */
+
+        .section-title {
+            font-size: 19px;
+            margin-bottom: 12px;
+        }
+
+        .description {
+            color: #b6c2d1;
+            line-height: 1.8;
+            font-size: 15px;
+            margin-bottom: 30px;
+        }
+
+        /* Información */
+
+        .info-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 15px;
+        }
+
+        .info-box {
+            background: rgba(255, 255, 255, 0.05);
+            border: 1px solid rgba(255, 255, 255, 0.08);
+            padding: 20px;
+            border-radius: 13px;
+        }
+
+        .info-box .label {
+            color: #94a3b8;
+            font-size: 13px;
+            margin-bottom: 10px;
+        }
+
+        .info-box .value {
+            font-size: 14px;
+            font-weight: 600;
+            color: #f8fafc;
+            overflow-wrap: anywhere;
+        }
+
+        /* Pie de página */
+
+        footer {
+            text-align: center;
+            margin-top: 25px;
+            color: #64748b;
+            font-size: 13px;
+        }
+
+        footer span {
+            color: #e45b50;
+        }
+
+        /* Diseño adaptable */
+
+        @media (max-width: 600px) {
+            body {
+                padding: 15px;
+            }
+
+            .card {
+                padding: 22px;
+            }
+
+            .header h1 {
+                font-size: 25px;
+            }
+
+            .info-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <main class="container">
+
+        <header class="header">
+            <div class="logo">🌐</div>
+            <h1>¡Bienvenido a mi servidor!</h1>
+            <p>Entorno de prácticas · Ubuntu Server</p>
+        </header>
+
+        <section class="card">
+
+            <div class="status">
+                <div class="status-dot"></div>
+
+                <div class="status-text">
+                    <strong>Servidor activo</strong>
+                    <span>Apache HTTP Server está funcionando correctamente</span>
+                </div>
+            </div>
+
+            <h2 class="section-title">Servidor web Apache</h2>
+
+            <p class="description">
+                Esta página se ha creado para comprobar el correcto
+                funcionamiento del servidor web Apache y la configuración
+                del VirtualHost en un entorno Ubuntu Server.
+                El objetivo es verificar que el servidor puede recibir
+                peticiones y mostrar contenido web correctamente.
+            </p>
+
+            <h2 class="section-title">Información del servidor</h2>
+
+            <div class="info-grid">
+
+                <div class="info-box">
+                    <p class="label">Servidor web</p>
+                    <p class="value">Apache HTTP Server 2.4</p>
+                </div>
+
+                <div class="info-box">
+                    <p class="label">Sistema operativo</p>
+                    <p class="value">Ubuntu Server</p>
+                </div>
+
+                <div class="info-box">
+                    <p class="label">Directorio raíz</p>
+                    <p class="value">/var/www/mi_sitio_web</p>
+                </div>
+
+                <div class="info-box">
+                    <p class="label">Protocolo</p>
+                    <p class="value">HTTP / HTTPS</p>
+                </div>
+
+            </div>
+
+        </section>
+
+        <footer>
+            Proyecto de Despliegue de Aplicaciones Web
+            <br>
+            Desarrollado con <span>♥</span> · Ubuntu Server
+        </footer>
+
+    </main>
+
+</body>
+
+</html>
