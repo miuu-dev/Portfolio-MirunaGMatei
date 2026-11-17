@@ -148,6 +148,7 @@ Accedemos desde el navegador e introducimos el usuario creado:
  
 * Manager: `http://localhost:8080/manager/html`
 * Host Manager: `http://localhost:8080/host-manager/html`
+
 ![06. Página Manager](imgs/06.Manager.png)
 
 ![07. Página Host Manager](imgs/07.HostManager.png)
